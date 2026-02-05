@@ -4,8 +4,8 @@ I am a hobbyist game developer currently studying a Higher National Diploma in '
 ever since I was very young I have loved video games, I have always
 
 ## Portfolio
-###Passion Project
+### Passion Project
 
 
-###College Project
+### College Project
 
