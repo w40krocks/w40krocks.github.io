@@ -16,12 +16,12 @@ From March 2025 i have been developing a game, both as a passion project and as 
 (footage from the most recent version)
 
 All 3D models, texturing and spritework was done by myself using tools such as Blender, blockbench, Krita, GiMP and Aesprite
-![bald face](https://github.com/w40krocks/w40krocks.github.io/blob/main/assets/Images/face%20v1.png)![man with brown hair](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v2.png)![man with brown hair and stubble](assets/Images/face%20v3.png)![man with brown hair stubble and mustache](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v4.png)
-![sprite work of a pistol](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/pistol%20v1.png)![sprite work of a pistol](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/pistol%20v2.png)![sprite work of a pistol](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/pistol%20v3.png)![sprite work of a pistol](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/pistol%20v4.png)![sprite work of a pistol](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/pistol%20v5.png)![sprite work of a pistol](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/pistol%20v6.png)![sprite work of a pistol](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/pistol%20v7.png)![sprite work of a pistol](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/pistol%20v8.png)
+![bald face](assets/Images/face%20v1.png)![man with brown hair](assets/Images/face%20v2.png)![man with brown hair and stubble](assets/Images/face%20v3.png)![man with brown hair stubble and mustache](assets/Images/face%20v4.png)
+![sprite work of a pistol](assets/Images/pistol%20v1.png)![sprite work of a pistol](assets/Images/pistol%20v2.png)![sprite work of a pistol](assets/Images/pistol%20v3.png)![sprite work of a pistol](assets/Images/pistol%20v4.png)![sprite work of a pistol](assets/Images/pistol%20v5.png)![sprite work of a pistol](assets/Images/pistol%20v6.png)![sprite work of a pistol](assets/Images/pistol%20v7.png)![sprite work of a pistol](assets/Images/pistol%20v8.png)
 (progressive models of pistols)
 (progressive models of Shotgun)
 (progressive models of Rocket Launcher)
-![Screenshot of a low poly utah raptor](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/raptor%20v1.png) ![Screenshot of a slightly better low poly utah raptor](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/raptor%20v2.png)
+![Screenshot of a low poly utah raptor](assets/Images/raptor%20v1.png) ![Screenshot of a slightly better low poly utah raptor](assets/Images/raptor%20v2.png)
 
 ### College Project
 From September 2025 to January 2026 I developed a small-scale Unity game for an assignment in College, with a backing GDD (Game Design Document)
