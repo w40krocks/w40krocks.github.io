@@ -16,7 +16,7 @@ From March 2025 i have been developing a game, both as a passion project and as 
 (footage from the most recent version)
 
 All 3D models, texturing and spritework was done by myself using tools such as Blender, blockbench, Krita, GiMP and Aesprite
-![bald face](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v1.png)![man with brown hair](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v2.png)![Screenshot of a low poly utah raptor](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v3.png)![Screenshot of a low poly utah raptor](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v4.png)![Screenshot of a low poly utah raptor](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v5.png)
+![bald face](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v1.png)![man with brown hair](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v2.png)![man with brown hair and stubble](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v3.png)![man with brown hair stubble and mustache](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/face%20v4.png)
 (progessive face model)
 (progressive models of pistols)
 (progressive models of Shotgun)
