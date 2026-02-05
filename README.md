@@ -25,4 +25,3 @@ All 3D models, texturing and spritework was done by myself using tools such as B
 
 ### College Project
 From September 2025 to January 2026 I developed a small-scale Unity game for an assignment in College, with a backing GDD (Game Design Document)
-
