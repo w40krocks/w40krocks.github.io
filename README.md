@@ -20,9 +20,8 @@ All 3D models, texturing and spritework was done by myself using tools such as B
 (progressive models of pistols)
 (progressive models of Shotgun)
 (progressive models of Rocket Launcher)
-(Raptor Models)
-
+![Screenshot of a low poly utah raptor](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/raptor%20v1.png) ![Screenshot of a low poly utah raptor](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/raptor%20v2.png)
 
 ### College Project
 From September 2025 to January 2026 I developed a small-scale Unity game for an assignment in College, with a backing GDD (Game Design Document)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/w40krocks/w40krocks.github.io/blob/main/Images/raptor%20v1.png)
+
