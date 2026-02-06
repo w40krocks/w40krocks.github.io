@@ -7,7 +7,7 @@ Ever since I was very young, I have loved video games. I have always found the a
 - Email : wrocks25553399@gmail.com
 
 ## Portfolio
-this section documents all my projects I have undertaken.
+this section documents some of the projects I have undertaken.
 ### Passion Project
 From March 2025 i have been developing a game, both as a passion project and as a learning oppurtunity, in the last year, it has went through 9 iterative loops and is currently on its 10th iteration, and while the game is still early in development, this iteratitive process has introduced me to many fundamental parts of game development, from the process of creation, to the planning of logic and game elements.
 
@@ -16,6 +16,7 @@ From March 2025 i have been developing a game, both as a passion project and as 
 (footage from the most recent version)
 
 All 3D models, texturing and spritework was done by myself using tools such as Blender, blockbench, Krita, GiMP and Aesprite
+
 ![bald face](assets/Images/face%20v1.png)![man with brown hair](assets/Images/face%20v2.png)![man with brown hair and stubble](assets/Images/face%20v3.png)![man with brown hair stubble and mustache](assets/Images/face%20v4.png)
 ![sprite work of a pistol](assets/Images/pistol%20v1.png)![sprite work of a pistol](assets/Images/pistol%20v2.png)![sprite work of a pistol](assets/Images/pistol%20v3.png)![sprite work of a pistol](assets/Images/pistol%20v4.png)![sprite work of a pistol](assets/Images/pistol%20v5.png)![sprite work of a pistol](assets/Images/pistol%20v6.png)![sprite work of a pistol](assets/Images/pistol%20v7.png)![sprite work of a pistol](assets/Images/pistol%20v8.png)
 (progressive models of pistols)
@@ -24,4 +25,4 @@ All 3D models, texturing and spritework was done by myself using tools such as B
 ![Screenshot of a low poly utah raptor](assets/Images/raptor%20v1.png) ![Screenshot of a slightly better low poly utah raptor](assets/Images/raptor%20v2.png)
 
 ### College Project
-From September 2025 to January 2026 I developed a small-scale Unity game for an assignment in College, with a backing GDD (Game Design Document)
+From September 2025 to January 2026 I developed a small-scale Unity game for an assignment in College, with a backing GDD (Game Design Document) and documentation
