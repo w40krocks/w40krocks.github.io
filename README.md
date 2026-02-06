@@ -61,5 +61,6 @@ progression of the bazooka models.
 progression of the raptor enemy models.
 
 </details>
+
 ### College Project
 From September 2025 to January 2026 I developed a small-scale Unity game for an assignment in College, with a backing GDD (Game Design Document) and documentation
