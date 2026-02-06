@@ -15,6 +15,10 @@ From March 2025 i have been developing a game, both as a passion project and as 
 (most impressive footage I have probs version 7, 8 or 9)
 (footage from the most recent version)
 
+<details>
+
+<summary>Artwork</summary>
+
 All 3D models, texturing and spritework was done by myself using tools such as Blender, blockbench, Krita, GiMP and Aesprite
 
 ![bald face](assets/Images/face%20v1.png)
@@ -56,5 +60,6 @@ progression of the bazooka models.
 
 progression of the raptor enemy models.
 
+</details>
 ### College Project
 From September 2025 to January 2026 I developed a small-scale Unity game for an assignment in College, with a backing GDD (Game Design Document) and documentation
