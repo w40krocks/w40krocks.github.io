@@ -25,6 +25,15 @@ The face model for the main character's progression
 
 progression of the pistol models
 
+![sprite work of a pistol](assets/Images/shotgun%20v1.png)
+![sprite work of a pistol](assets/Images/shotgun%20v2.png)
+![sprite work of a pistol](assets/Images/shotgun%20v3.png)
+![sprite work of a pistol](assets/Images/shotgun%20v4.png)
+![sprite work of a pistol](assets/Images/shotgun%20v5.png)
+![sprite work of a pistol](assets/Images/shotgun%20v6.png)
+![sprite work of a pistol](assets/Images/shotgun%20v7.png)
+![sprite work of a pistol](assets/Images/shotgun%20v8.png)
+
 (progressive models of Shotgun)
 (progressive models of Rocket Launcher)
 ![Screenshot of a low poly utah raptor](assets/Images/raptor%20v1.png) ![Screenshot of a slightly better low poly utah raptor](assets/Images/raptor%20v2.png)
