@@ -21,7 +21,7 @@ All 3D models, texturing and spritework was done by myself using tools such as B
 
 The face model for the main character's progression
 
-![sprite work of a pistol](assets/Images/pistol%20v1.png)![sprite work of a pistol](assets/Images/pistol%20v2.png)![sprite work of a pistol](assets/Images/pistol%20v3.png)![sprite work of a pistol](assets/Images/pistol%20v4.png)![sprite work of a pistol](assets/Images/pistol%20v5.png)![sprite work of a pistol](assets/Images/pistol%20v6.png)![sprite work of a pistol](assets/Images/pistol%20v7.png)![sprite work of a pistol](assets/Images/pistol%20v8.png)
+![sprite work of a pistol](assets/Images/pistol%20v1.png)![sprite work of a pistol](assets/Images/pistol%20v2.png)![sprite work of a pistol](assets/Images/pistol%20v3.png)![sprite work of a pistol](assets/Images/pistol%20v4.png)![sprite work of a pistol](assets/Images/pistol%20v5.png)![sprite work of a pistol](assets/Images/pistol%20v6.png)![sprite work of a pistol](assets/Images/pistol%20v7.png)
 
 progression of the pistol models
 
