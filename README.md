@@ -22,7 +22,7 @@ All 3D models, texturing and spritework was done by myself using tools such as B
 ![man with brown hair and stubble](assets/Images/face%20v3.png)
 ![man with brown hair stubble and mustache](assets/Images/face%20v4.png)
 
-The face model for the main character's progression
+The face for the main character's progression.
 
 ![sprite work of a pistol](assets/Images/pistol%20v1.png)
 ![sprite work of a pistol](assets/Images/pistol%20v2.png)
@@ -32,7 +32,7 @@ The face model for the main character's progression
 ![sprite work of a pistol](assets/Images/pistol%20v6.png)
 ![sprite work of a pistol](assets/Images/pistol%20v7.png)
 
-progression of the pistol models
+progression of the pistol models.
 
 ![sprite work of a pistol](assets/Images/shotgun%20v1.png)
 ![sprite work of a pistol](assets/Images/shotgun%20v2.png)
@@ -43,16 +43,18 @@ progression of the pistol models
 ![sprite work of a pistol](assets/Images/shotgun%20v7.png)
 ![sprite work of a pistol](assets/Images/shotgun%20v8.png)
 
-progression of the shotgun models
+progression of the shotgun models.
 
 ![sprite work of a pistol](assets/Images/bazooka%20v1.png)
 ![sprite work of a pistol](assets/Images/Bazooka%20v2.png)
 ![sprite work of a pistol](assets/Images/Bazooka%20v3.png)
 
-progression of the bazooka model
-(progressive models of Shotgun)
-(progressive models of Rocket Launcher)
-![Screenshot of a low poly utah raptor](assets/Images/raptor%20v1.png) ![Screenshot of a slightly better low poly utah raptor](assets/Images/raptor%20v2.png)
+progression of the bazooka models.
+
+![Screenshot of a low poly utah raptor](assets/Images/raptor%20v1.png) 
+![Screenshot of a slightly better low poly utah raptor](assets/Images/raptor%20v2.png)
+
+progression of the raptor enemy models.
 
 ### College Project
 From September 2025 to January 2026 I developed a small-scale Unity game for an assignment in College, with a backing GDD (Game Design Document) and documentation
