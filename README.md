@@ -17,11 +17,20 @@ From March 2025 i have been developing a game, both as a passion project and as 
 
 All 3D models, texturing and spritework was done by myself using tools such as Blender, blockbench, Krita, GiMP and Aesprite
 
-![bald face](assets/Images/face%20v1.png)![man with brown hair](assets/Images/face%20v2.png)![man with brown hair and stubble](assets/Images/face%20v3.png)![man with brown hair stubble and mustache](assets/Images/face%20v4.png)
+![bald face](assets/Images/face%20v1.png)
+![man with brown hair](assets/Images/face%20v2.png)
+![man with brown hair and stubble](assets/Images/face%20v3.png)
+![man with brown hair stubble and mustache](assets/Images/face%20v4.png)
 
 The face model for the main character's progression
 
-![sprite work of a pistol](assets/Images/pistol%20v1.png)![sprite work of a pistol](assets/Images/pistol%20v2.png)![sprite work of a pistol](assets/Images/pistol%20v3.png)![sprite work of a pistol](assets/Images/pistol%20v4.png)![sprite work of a pistol](assets/Images/pistol%20v5.png)![sprite work of a pistol](assets/Images/pistol%20v6.png)![sprite work of a pistol](assets/Images/pistol%20v7.png)
+![sprite work of a pistol](assets/Images/pistol%20v1.png)
+![sprite work of a pistol](assets/Images/pistol%20v2.png)
+![sprite work of a pistol](assets/Images/pistol%20v3.png)
+![sprite work of a pistol](assets/Images/pistol%20v4.png)
+![sprite work of a pistol](assets/Images/pistol%20v5.png)
+![sprite work of a pistol](assets/Images/pistol%20v6.png)
+![sprite work of a pistol](assets/Images/pistol%20v7.png)
 
 progression of the pistol models
 
@@ -37,8 +46,8 @@ progression of the pistol models
 progression of the shotgun models
 
 ![sprite work of a pistol](assets/Images/bazooka%20v1.png)
-![sprite work of a pistol](assets/Images/bazooka%20v2.png)
-![sprite work of a pistol](assets/Images/bazooka%20v3.png)
+![sprite work of a pistol](assets/Images/Bazooka%20v2.png)
+![sprite work of a pistol](assets/Images/Bazooka%20v3.png)
 
 progression of the bazooka model
 (progressive models of Shotgun)
