@@ -34,6 +34,13 @@ progression of the pistol models
 ![sprite work of a pistol](assets/Images/shotgun%20v7.png)
 ![sprite work of a pistol](assets/Images/shotgun%20v8.png)
 
+progression of the shotgun models
+
+![sprite work of a pistol](assets/Images/bazooka%20v1.png)
+![sprite work of a pistol](assets/Images/bazooka%20v2.png)
+![sprite work of a pistol](assets/Images/bazooka%20v3.png)
+
+progression of the bazooka model
 (progressive models of Shotgun)
 (progressive models of Rocket Launcher)
 ![Screenshot of a low poly utah raptor](assets/Images/raptor%20v1.png) ![Screenshot of a slightly better low poly utah raptor](assets/Images/raptor%20v2.png)
